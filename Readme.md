@@ -1,53 +1,33 @@
-# Личный проект «Мишка» 
+# 🧸Mishka
 
-* Студент: [Мария Афанасьева](https://up.htmlacademy.ru/adaptive/26/user/1878815).
-* Наставник: [Евгений Петров](https://htmlacademy.ru/profile/id617077).
+Frontpage, catalog, order form page for ecom. Study project as part of education at [HTML Academy](https://htmlacademy.ru/intensive/javascript).  
+Mentor [Евгений Петров](https://htmlacademy.ru/profile/id617077)
 
----
+## Task and functionalities
 
-**Обратите внимание, что папка с вашими исходными файлами — `source/`.**
+- SASS preprocessor
+- Gulp
+- Responsive pages, 3 dimensions
+- Responsive images
+- Cross-device, cross-browser(Mosilla, Edge, Chrome, Safari, Internet Explorer)
 
-Полезный файл:
+## Mockup
 
-- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+[Figma](https://www.figma.com/file/MFMmzEiLLb5Iwxthl9Z87e/HTML-2-%2F-%D0%9C%D0%B8%D1%88%D0%BA%D0%B0-(Copy)?node-id=43%3A122&t=F9Kp6dNbABhaly7u-1)
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`, `package-lock.json`, `package.json`._
+## View Deployment
 
----
+[Mishka](https://afamarie.github.io/1878815-mishka-26/build/)
 
-### Памятка
+## Instruction
 
-#### 1. Зарегистрируйтесь на Гитхабе
+**Node.js** from v.16 
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
-
-#### 2. Создайте форк
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/1878815-mishka-26) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808189-541c1580-a190-11e9-8c4c-459d9c0f22f5.jpg">
-
-Получится вот так:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808191-54b4ac00-a190-11e9-92f8-ca77249661c3.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808192-54b4ac00-a190-11e9-804e-4565b5bd699c.jpg">
-
-Клонировать репозиторий можно так:
-
+```bash
+npm i # Install
+npm start # Local server
+npm run lint # Test launch for compliance with code guides
 ```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
 ---
 
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
